@@ -6,7 +6,7 @@ INSTALLATION:
 - Download
 - Drag it to your server
 - ensure GMD_IDMode in your server.cfg
-- Set IDMode config.lua and deactivate debug
+- Setup IDMode config.lua and deactivate debug
 - DONE 
 
 have fun with it 
