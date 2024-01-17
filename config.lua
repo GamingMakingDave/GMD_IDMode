@@ -1,6 +1,6 @@
 Config = {}
 
-Config.DebugMode = true -- always leave false unless you know what you are doing
+Config.DebugMode = false -- always leave false unless you know what you are doing
 
 Config.DiscordBotToken = ''
 Config.GuildId = ''
