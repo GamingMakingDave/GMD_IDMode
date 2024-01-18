@@ -11,4 +11,6 @@ INSTALLATION:
 
 have fun with it 
 
+here my Discord: https://discord.gg/qsBWfdmVms
+
 GMD_Scripts
